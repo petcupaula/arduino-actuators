@@ -1,9 +1,10 @@
 /*
  * Script for handling an electromagnet using a relay
+ * (The same wiring and code applies for a push-pull solenoid, or a lock-style solenoid
  * 
- * Include:
+ * Tested with:
  * - 1 relay (5V)
- * - 1 electromagnet (12V)
+ * - electromagnet (12V version and 6V version) / push-pull solenoid (12V)
  */
  
 

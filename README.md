@@ -8,6 +8,6 @@ Wiring diagram - DC motor and the L298N Dual H-Bridge
 
 <img src="arduino_L298N_2motors_bb.png" width="800">
 
-Wiring diagram - Electromagnet:
+Wiring diagram - Electromagnet (same for Push-Pull Solenoid Electromagnet / or Lock-type Solenoid):
 
 <img src="arduino_electromagnet_bb.png" width="800">
