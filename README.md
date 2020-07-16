@@ -19,3 +19,7 @@ Wiring diagram - Fan (simple setup to just on or off, no speed control):
 Wiring diagram - Vacuum Suction Pump:
 
 <img src="arduino_suction_cup_bb.png" width="800">
+
+Wiring diagram - LED:
+
+<img src="arduino_LED_bb.png" width="800">
