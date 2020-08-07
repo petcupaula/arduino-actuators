@@ -8,9 +8,13 @@ Wiring diagram - DC motor and the L298N Dual H-Bridge
 
 <img src="arduino_L298N_2motors_bb.png" width="800">
 
-Wiring diagram - Electromagnet (same for Push-Pull Solenoid Electromagnet / or Lock-type Solenoid):
+Wiring diagram - Electromagnet (same for Push-Pull Solenoid Electromagnet / or Lock-type Solenoid) - using a relay:
 
 <img src="arduino_electromagnet_bb.png" width="800">
+
+Wiring diagram - Electromagnet - using a transistor:
+
+<img src="arduino_electromagnet_transistor_bb.png" width="800">
 
 Wiring diagram - Fan (simple setup to just on or off, no speed control):
 
@@ -22,4 +26,4 @@ Wiring diagram - Vacuum Suction Pump:
 
 Wiring diagram - LED:
 
-<img src="arduino_LED_bb.png" width="800">
+<img src="arduino_LED_bb.png" width="400">
