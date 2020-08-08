@@ -26,7 +26,7 @@ Wiring diagram - Vacuum Suction Pump - using relays:
 
 Wiring diagram - Vacuum Suction Pump - using transistors:
 
-<img src="arduino_suction_cup_transistor_bb.png" width="800">
+<img src="arduino_suction_transistor_bb.png" width="800">
 
 Wiring diagram - LED:
 
