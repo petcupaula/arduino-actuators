@@ -20,9 +20,13 @@ Wiring diagram - Fan (simple setup to just on or off, no speed control):
 
 <img src="arduino_fan_onoff_bb.png" width="800">
 
-Wiring diagram - Vacuum Suction Pump:
+Wiring diagram - Vacuum Suction Pump - using relays:
 
 <img src="arduino_suction_cup_bb.png" width="800">
+
+Wiring diagram - Vacuum Suction Pump - using transistors:
+
+<img src="arduino_suction_cup__transistor_bb.png" width="800">
 
 Wiring diagram - LED:
 
